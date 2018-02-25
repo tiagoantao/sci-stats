@@ -15,7 +15,11 @@
   "keywords": [
     "statistics"
   ],
-  "author": "Tiago Antao <tiago@tiago.org> (https://tiago.org)",
+  "author": {
+    "name": "Tiago Antao",
+    "email": "tiago@tiago.org",
+    "url": "http://tiago.org"
+  },
   "license": "LGPL-3.0",
   "bugs": {
     "url": "https://github.com/tiagoantao/sci-stats/issues"
